@@ -1,5 +1,5 @@
 {
-    "name": "Auto Approove Bot",
+    "name": "Anjali Auto Approove Bot",
     "description": "Auto approove telegram group/channel join requests bot.",
     "keywords": [
         "Bot",
@@ -7,7 +7,7 @@
         "Pyrogram "
     ],
     
-    "repository": "https://github.com/ImDenuwan/Auto-Approve-Bot",
+    "repository": "https://github.com/MAHTO-ANJALI/AnjaliAppovre",
     "logo":"https://telegra.ph/file/a782e3bbbe40df8a4bb67.jpg",   
     
     "env": {
