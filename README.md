@@ -1,14 +1,14 @@
-# Auto-Approve-Bot
+# Anjali Auto-Approve-Bot
 👾 Hey I'll Accept telegram join requests. Easy to use and simple.
 
 ## 🚀 Demo Bot
-- [@SDAutoApproveBot](https://t.me/SDAutoApproveBot)
+- [@AnjaliWorldOfficialBot](https://t.me/AnjaliWorldOfficialBot)
 
 <h2>〽️ Deploy Me </h2> 
   
 <details><summary>📌 Deploy to Heroku </summary>
   
-<a href="https://heroku.com/deploy?template=https://github.com/ImDenuwan/Auto-Approve-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
+<a href="https://heroku.com/deploy?template=https://github.com/MAHTO-ANJALI/AnjaliAppovre"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
 </details>
 
 <details><summary>📌 Deploy to Railway </summary>
@@ -18,14 +18,14 @@
   
 <details><summary>📌 Deploy to Okteto </summary>
   
-[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/ImDenuwan/Auto-Approve-Bot/)
+[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/MAHTO-ANJALI/AnjaliAppovre/)
 </details>
 
 <details><summary>📌 Deploy to VPS/Local </summary>
 
 
   ```ssh
-  git clone https://github.com/ImDenuwan/Auto-Approve-Bot
+  git clone https://github.com/MAHTO-ANJALI/AnjaliAppovre
   pip3 install -r requirements.txt
   # fill config.py vars
   python3 bot.py
@@ -44,5 +44,5 @@
   
   
 ### 💫 Credits
- - [Dan](https://github.com/delivrance) for pyrogram
- - [Me](https://github.com/ImDenuwan) for Nothing 😅
+ - [MAHTO](https://github.com/MAHTO-ANJALI) for pyrogram
+ - [Me](https://github.com/MAHTO-ANJALI) for Nothing 😅
